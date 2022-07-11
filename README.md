@@ -2,7 +2,6 @@
 - 👀 I’m interested in web development, ethical hacking, programming.
 - 🌱 I’m currently learning android development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 📫 How to reach me harishq8079@gmail.com
 
 <!---
